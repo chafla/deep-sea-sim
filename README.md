@@ -1,7 +1,16 @@
 # Skittering Crustaceans
 
 A deep-sea simulator developed in Rust over the course of `Advanced Programming Skills - Rust (CSCI-541)` at RIT, instructed by Professor Matthew Fluet. 
-Inspired by colony sims such as Dwarf Fortress and Rimworld.
+
+Inspired by colony sims such as Dwarf Fortress and Rimworld. Spawn in a set of creatures such as fish, sharks, and (of course) crabs, and watch them go about their lives and reproduce. 
+It's not all fun and games for the creatures, though, who eventually grow hungry. 
+Fish and crabs can get a quick snack from the plants on the ocean floor, but too many creatures might finish them off before they get the chance to spread seeds and repopulate.
+Eventually, crabs and fish may try to attack each other for a bite. Sharks, naturally, won't even bother with plants when they get hungry.
+On top of that, the ocean is a dangerous place subject to random events, which you get a say in.
+
+Like most colony sims, how you play is up to you. You can treat it as a sandbox and try different combinations of creatures to watch them putt around, or strive to find the perfect equilibrium that keeps the colony alive as long as possible.
+
+---
 
 This repository is a copy of the original at the time of submission, and reflects the team's collective effort over the semester.
 The only files omitted were the professor's comments/feedback regarding our progress, in an effort to respect his privacy, as well as the demo video,
