@@ -1,0 +1,5 @@
+# Ignore anything built
+**/target/**
+*.d
+target/*
+.DS_Store

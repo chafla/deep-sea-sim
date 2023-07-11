@@ -1,0 +1,13 @@
+[package]
+name = "display"
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+egui = "0.21.0"
+eframe = {version = "0.21.0"}
+game_data = {path = "../game_data"}
+egui_extras = "0.21.0"
+image = "0.24.6"
