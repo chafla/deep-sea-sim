@@ -19,4 +19,4 @@ Final team members*:
 - Eric Barron
 	- Developed the UI/front-end components of the application, as well as some of the game logic.
 
-* Due to extenuating circumstances, a third team member had to leave partway through the project.
+\* Due to extenuating circumstances, a third team member had to leave partway through the project.
